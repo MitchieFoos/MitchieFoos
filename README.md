@@ -8,8 +8,8 @@
 - 🐧 Learning how to use LINUX, specifically Kali Linux
 
   ### 💡 Projects
-  <a href="https://mitchiefoos.github.io/mi-proyecto/">
-    <h1>My Linus Torvalds page</h1></a>
+    <h1>My Linus Torvalds page</h1>
+    <a href="https://mitchiefoos.github.io/mi-proyecto/">
 
   ### 🏅Badges!
  <img src="./badge1.png" width="150" alt="Insignia 1">
