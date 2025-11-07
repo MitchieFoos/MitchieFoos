@@ -1,5 +1,5 @@
 ## Hello everyone! It's Mitchie 👋
-💻 Currently studying to be a web designer, self-taught cybersecurity newbie and computer enthusiast.
+💻 Currently studying to be a web designer, self-taught cybersecurity newbie and a computer enthusiast.
 
 ### 🌈 About me
 - 🌱 I'm learning **HTML and CSS**
