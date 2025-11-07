@@ -8,7 +8,8 @@
 - 🐧 Learning how to use LINUX, specifically Kali Linux
 
   ### 💡 Projects
-  [![One of my firsts pages](https://mitchiefoos.github.io/mi-proyecto/)]
+  <a href="https://mitchiefoos.github.io/mi-proyecto/">
+    <h1>🐧</h1></a>
 
   ### 🏅Badges!
  <img src="./badge1.png" width="150" alt="Insignia 1">
