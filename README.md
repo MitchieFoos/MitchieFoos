@@ -14,7 +14,7 @@
   ### 🏅Badges!
 <p align="center">
  <img src="./badge1.png" width="150" alt="Insignia 1">
-<img src="./badge2.png" width="150" alt="Insignia 1">
+<img src="./badge2.png" width="160" alt="Insignia 1">
 </p>
 <!--
 **MitchieFoos/MitchieFoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
