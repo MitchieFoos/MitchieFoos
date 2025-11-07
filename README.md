@@ -11,7 +11,8 @@
   [![One of my firsts pages](https://mitchiefoos.github.io/mi-proyecto/)]
 
   ### 🏅Badges!
-  <img src="c" width="150">
+  <img src="badge1" width="150">
+  <img src="badge2" width="150">
 <!--
 **MitchieFoos/MitchieFoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
