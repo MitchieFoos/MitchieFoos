@@ -1,5 +1,17 @@
-## Hi there 👋
+## Hello everyone! It's Mitchie 👋
+💻 Currently studying to be a web designer, self-taught cybersecurity newbie and computer enthusiast.
 
+### 🌈 About me
+- 🌱 I'm learning **HTML and CSS**
+- 💻 Also i'm slowly learning and practicing Cibersecurity everyday.
+- 🎧 I really love alternative music like post-hardcore and some sub-genres of metal.
+- 🐧 Learning how to use LINUX, specifically Kali Linux
+
+  ### 💡 Projects
+  [![One of my firsts pages](https://mitchiefoos.github.io/mi-proyecto/)]
+
+  ### Badges!
+  
 <!--
 **MitchieFoos/MitchieFoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
