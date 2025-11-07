@@ -12,7 +12,7 @@
 
   ### 🏅Badges!
  <img src="./badge1.png" width="150" alt="Insignia 1">
-  <img src="badge2" width="150">
+<img src="./badge2.png" width="150" alt="Insignia 1">
 <!--
 **MitchieFoos/MitchieFoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
