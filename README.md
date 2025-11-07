@@ -12,10 +12,10 @@
 
 
   ### 🏅Badges!
-img { 
+<!--img { 
  display: flex;
  flex-direction: row;
- }
+ }-->
  <img src="./badge1.png" width="150" alt="Insignia 1">
 <img src="./badge2.png" width="150" alt="Insignia 1">
 <!--
