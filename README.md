@@ -1,5 +1,5 @@
 ## Hello everyone! It's Mitchie 👋
-💻 Currently studying to be a web designer, self-taught cybersecurity newbie and a computer enthusiast.
+💻 Currently studying to be a web designer, i'm a self-taught cybersecurity newbie and also a computer enthusiast.
 
 ### 🌈 About me
 - 🌱 I'm learning **HTML and CSS**
@@ -14,19 +14,10 @@
   ### 🏅Badges!
 <p align="center">
  <img src="./badge1.png" width="150" alt="Insignia 1">
-<img src="./badge2.png" width="160" alt="Insignia 1">
+<img src="./badge2.png" width="160" alt="Insignia 2">
+  <img src="./badge3.png" width="160" alt="Insignia 3">
+  <img src="./badge4.png" width="160" alt="Insignia 4">
 </p>
 <!--
 **MitchieFoos/MitchieFoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
